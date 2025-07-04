@@ -24,7 +24,6 @@ with open('dataset_3363_4.txt', encoding="utf-8") as table:
         grades.append(grade)
         count_person += 1
 
-    
 
     
     with open('3_average_grades.txt', 'w') as result:
